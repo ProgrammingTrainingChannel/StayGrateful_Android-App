@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Stay Grateful</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">የአጠቃቀም ቪዲዮ ክፈት</string>
+    <string name="header_title">Stay Grateful</string>
+    <string name="header_detail">Be Grateful and Stay Grateful</string>
+
+    <string name="home_add_new">አዲስ ጨምር</string>
+    <string name="home_view">ምረጥ</string>
+    <string name="home_set_reminder">ማስታወሻ (በቅርብ ቀን)</string>
+
+    <string name="home_second_break">ተጨማሪ</string>
+    <string name="home_setting">ማስተካከያ</string>
+    <string name="home_language_amharic">አማርኛ</string>
+    <string name="home_language_english">English</string>
+
+    <string name="home_help">የአጠቃቀም መረጃ</string>
+    <string name="home_about">ስለፕሮግራሙ</string>
+
+    <string name="add_new_dialog_title">ስለምን ማመስገን ይፈልጋሉ?</string>
+    <string name="add_new_dialog_btnCancel">ዝጋ</string>
+    <string name="add_new_dialog_btnSave">አስቀምጥ</string>
+
+    <string name="splash_greeting">Welcome to Stay Grateful</string>
+    <string name="splash_company">ቢቲ አይቲ ሶሉሽንስ (+251 911 84 20 52)</string>
+
+    <string name="set_reminder_dialog_title">ማስታወሻ አስቀምጥ</string>
+    <string name="set_reminder_dialog_chkTiming">Set reminder for tomorrow this time</string>
+    <string name="set_reminder_dialog_btnCancel">ዝጋ</string>
+    <string name="set_reminder_dialog_btnSet">ማስታወሻ አስቀምጥ</string>
+
+    <string name="filter_gratitude_list_dialog_title">በሚፈልጉት ቀን ይምረጡ</string>
+    <string name="filter_gratitude_list_dialog_btnCancel">ዝጋ</string>
+    <string name="filter_gratitude_list_dialog_btnFilter">ምረጥ</string>
+
+    <string name="setting_dialog_title">ቋንቋ መምረጫ</string>
+    <string name="setting_dialog_lblAmharic">አማርኛ</string>
+    <string name="setting_dialog_lblEnglish">English</string>
+    <string name="setting_dialog_lblOromiffa">Oromiffa</string>
+    <string name="setting_dialog_lblTigrigna">ትግርኛ</string>
+    <string name="setting_dialog_btnDialogCancel">ዝጋ</string>
+    <string name="setting_dialog_btnDialogSave">አስቀምጥ</string>
+
+    <string name="btn_about">ስለአዘጋጁ</string>
+    <string name="about_lblheader">BT IT Solutions</string>
+    <string name="About_lblOurServices">የምንሰጣቸው አገልግሎቶች:</string>
+    <string name="About_lblConsultancy">  - የአይቲ ነክ ስራዎች ማማከር</string>
+    <string name="About_lblWebsite">  - ዌብስይትና የተለያዩ ፕሮግራሞች ማልማት</string>
+    <string name="About_lblMobile">  - የሞባይል ፕሮግራሞች ማልማት</string>
+    <string name="About_lblTraining">  - የፕሮግራሚንግ ስልጠና በግል</string>
+    <string name="About_lblOurAddress">አድራሻችን:</string>
+    <string name="About_lblCity">  - አዲስ አበባ, ኢትዮጵያ</string>
+    <string name="About_lblArea">  - ሜክሲኮ አካባቢ, ኬ ኬር ህንጻ</string>
+    <string name="About_lblMobileNumber">  - +251 911 84 20 52</string>
+
+    <string name="FilterOptions_all">ሁሉንም አሳይ</string>
+    <string name="FilterOptions_today">የዛሬን አሳይ</string>
+    <string name="FilterOptions_yesterday">የትላንትን አሳይ</string>
+</resources>

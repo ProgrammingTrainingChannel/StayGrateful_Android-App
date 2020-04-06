@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Stay Grateful</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Show Help Video</string>
+    <string name="header_title">Stay Grateful</string>
+    <string name="header_detail">Be Grateful and Stay Grateful</string>
+
+    <string name="home_add_new">Add New</string>
+    <string name="home_view">Filter Gratitudes</string>
+    <string name="home_set_reminder">Reminder (Coming soon)</string>
+
+    <string name="home_second_break">Additionals</string>
+    <string name="home_setting">Setting</string>
+    <string name="home_language_amharic">Amharic</string>
+    <string name="home_language_english">English</string>
+
+    <string name="home_help">How to Use</string>
+    <string name="home_about">About</string>
+
+    <string name="add_new_dialog_title">What are you grateful for?</string>
+    <string name="add_new_dialog_btnCancel">Cancel</string>
+    <string name="add_new_dialog_btnSave">Save &amp; Clear</string>
+
+    <string name="splash_greeting">Welcome to Stay Grateful</string>
+    <string name="splash_company">BT IT Solutions (+251 911 84 20 52)</string>
+
+    <string name="set_reminder_dialog_title">Set Reminder</string>
+    <string name="set_reminder_dialog_chkTiming">Set reminder for tomorrow this time</string>
+    <string name="set_reminder_dialog_btnCancel">Cancel</string>
+    <string name="set_reminder_dialog_btnSet">Set Reminder</string>
+
+    <string name="filter_gratitude_list_dialog_title">Filter List of Gratitudes</string>
+    <string name="filter_gratitude_list_dialog_btnCancel">Cancel</string>
+    <string name="filter_gratitude_list_dialog_btnFilter">Filter</string>
+
+    <string name="setting_dialog_title">Select Language</string>
+    <string name="setting_dialog_lblAmharic">አማርኛ</string>
+    <string name="setting_dialog_lblEnglish">English</string>
+    <string name="setting_dialog_lblOromiffa">Oromiffa</string>
+    <string name="setting_dialog_lblTigrigna">ትግርኛ</string>
+    <string name="setting_dialog_btnDialogCancel">Cancel</string>
+    <string name="setting_dialog_btnDialogSave">Save Setting</string>
+
+    <string name="btn_about">About</string>
+    <string name="about_lblheader">BT IT Solutions</string>
+    <string name="About_lblOurServices">Our Services:</string>
+    <string name="About_lblConsultancy">  - IT Related Consultancy</string>
+    <string name="About_lblWebsite">  - Website Development</string>
+    <string name="About_lblMobile">  - Mobile Application Development</string>
+    <string name="About_lblTraining">  - Personal Programming Training</string>
+    <string name="About_lblOurAddress">Our Address:</string>
+    <string name="About_lblCity">  - Addis Ababa, Ethiopia</string>
+    <string name="About_lblArea">  - Mexico Area, K KARE Building</string>
+    <string name="About_lblMobileNumber">  - +251 911 84 20 52</string>
+
+    <string name="FilterOptions_all">Show All</string>
+    <string name="FilterOptions_today">Show Today\'s</string>
+    <string name="FilterOptions_yesterday">Show Yesterday\'s</string>
+</resources>

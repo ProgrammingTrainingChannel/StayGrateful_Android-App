@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="5dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:id="@+id/headerLayout">
+
+        <TextView
+            android:id="@+id/lblOurServices"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginBottom="15dp"
+            android:text="@string/About_lblOurServices"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#000000"
+            android:textStyle="bold" />
+        <TextView
+            android:text="@string/About_lblConsultancy"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:textColor="#000000"
+            android:layout_below="@id/lblOurServices"
+            android:layout_marginBottom="10dp"
+            android:id="@+id/lblConsultancy" />
+        <TextView
+            android:text="@string/About_lblWebsite"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:textColor="#000000"
+            android:layout_below="@id/lblConsultancy"
+            android:layout_marginBottom="10dp"
+            android:id="@+id/lblWebsite" />
+        <TextView
+            android:text="@string/About_lblMobile"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:textColor="#000000"
+            android:layout_below="@id/lblWebsite"
+            android:layout_marginBottom="10dp"
+            android:id="@+id/lblMobile" />
+        <TextView
+            android:text="@string/About_lblTraining"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:textColor="#000000"
+            android:layout_below="@id/lblMobile"
+            android:layout_marginBottom="10dp"
+            android:id="@+id/lblTraining" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:layout_below="@+id/headerLayout"
+        android:id="@+id/mediumLayout">
+
+        <TextView
+            android:id="@+id/lblOurAddress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/lblTraining"
+            android:layout_marginBottom="15dp"
+            android:text="@string/About_lblOurAddress"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#000000"
+            android:textStyle="bold" />
+        <TextView
+            android:text="@string/About_lblCity"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:textColor="#000000"
+            android:layout_below="@id/lblOurAddress"
+            android:layout_marginBottom="10dp"
+            android:id="@+id/lblCity" />
+        <TextView
+            android:text="@string/About_lblArea"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:textColor="#000000"
+            android:layout_below="@id/lblCity"
+            android:layout_marginBottom="10dp"
+            android:id="@+id/lblArea" />
+        <TextView
+            android:text="@string/About_lblMobileNumber"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:textColor="#000000"
+            android:layout_below="@id/lblCity"
+            android:layout_marginBottom="10dp"
+            android:id="@+id/lblMobileNumber" />
+    </LinearLayout>
+
+</RelativeLayout>

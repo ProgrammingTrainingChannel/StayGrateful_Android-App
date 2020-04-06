@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="5dp">
+
+    <Spinner
+        android:id="@+id/spinnerDateRange"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/btn_dropdown" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/spinnerDateRange">
+
+        <Button
+            android:id="@+id/btnDialogCancel"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="0.50"
+            android:background="@drawable/button_background"
+            android:text="@string/filter_gratitude_list_dialog_btnCancel" />
+
+        <Button
+            android:id="@+id/btnDialogFilter"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="0.50"
+            android:background="@drawable/button_background"
+            android:text="@string/filter_gratitude_list_dialog_btnFilter" />
+    </LinearLayout>
+
+</RelativeLayout>

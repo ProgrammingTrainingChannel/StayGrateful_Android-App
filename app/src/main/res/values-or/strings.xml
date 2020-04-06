@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Stay Grateful</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Show Help Video</string>
+    <string name="header_title">Stay Grateful</string>
+    <string name="header_detail">Be Grateful and Stay Grateful</string>
+
+    <string name="home_add_new">haaraa dabaluu </string>
+    <string name="home_view"> filadhu</string>
+    <string name="home_set_reminder"> yaadachiisa (Coming soon)</string>
+
+    <string name="home_second_break">dabalata</string>
+    <string name="home_setting">sirreessuu</string>
+    <string name="home_language_amharic">Amharic</string>
+    <string name="home_language_english">English</string>
+
+    <string name="home_help"> haala itti fayyadamaa</string>
+    <string name="home_about">waa’ee saganticha</string>
+
+    <string name="add_new_dialog_title">maaliif akka galateefatu?</string>
+    <string name="add_new_dialog_btnCancel">bahi/balleessi </string>
+    <string name="add_new_dialog_btnSave"> galmeessi</string>
+
+    <string name="splash_greeting">Welcome to Stay Grateful</string>
+    <string name="splash_company">BT IT Solutions (+251 911 84 20 52)</string>
+
+    <string name="set_reminder_dialog_title">Set Reminder</string>
+    <string name="set_reminder_dialog_chkTiming">Set reminder for tomorrow this time</string>
+    <string name="set_reminder_dialog_btnCancel">Cancel</string>
+    <string name="set_reminder_dialog_btnSet">Set Reminder</string>
+
+    <string name="filter_gratitude_list_dialog_title"> kan barbadamu filachuu </string>
+    <string name="filter_gratitude_list_dialog_btnCancel">Cancel</string>
+    <string name="filter_gratitude_list_dialog_btnFilter">filachuu</string>
+
+    <string name="setting_dialog_title">afaan filachuu </string>
+    <string name="setting_dialog_lblAmharic">አማርኛ</string>
+    <string name="setting_dialog_lblEnglish">English</string>
+    <string name="setting_dialog_lblOromiffa">Oromiffa</string>
+    <string name="setting_dialog_lblTigrigna">ትግርኛ</string>
+    <string name="setting_dialog_btnDialogCancel"> bahi/balleessi </string>
+    <string name="setting_dialog_btnDialogSave"> galmeessi </string>
+
+    <string name="btn_about">About</string>
+    <string name="about_lblheader">BT IT Solutions</string>
+    <string name="About_lblOurServices">tajajilli kenninu :</string>
+    <string name="About_lblConsultancy">  - IT Related Consultancy</string>
+    <string name="About_lblWebsite">  - Website Development</string>
+    <string name="About_lblMobile">  - Mobile Application Development</string>
+    <string name="About_lblTraining">  - Personal Programming Training</string>
+    <string name="About_lblOurAddress">teessoon keenya :</string>
+    <string name="About_lblCity">  - Addis Ababa, Ethiopia</string>
+    <string name="About_lblArea">  - Mexico Area, K KARE Building</string>
+    <string name="About_lblMobileNumber">  - +251 911 84 20 52</string>
+
+    <string name="FilterOptions_all">hundumaa agarsiisi</string>
+    <string name="FilterOptions_today">kan har’aa agarsiisi</string>
+    <string name="FilterOptions_yesterday">kan kalleessaa agarsiisi</string>
+</resources>
+

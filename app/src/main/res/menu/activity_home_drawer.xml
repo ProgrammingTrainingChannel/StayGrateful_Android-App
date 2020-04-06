@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_add_new"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/home_add_new" />
+        <item
+            android:id="@+id/nav_view"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/home_view" />
+        <item
+            android:id="@+id/nav_set_reminder"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/home_set_reminder" />
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/home_setting" />
+    </group>
+
+    <item android:title="@string/home_second_break">
+        <menu>
+            <item
+                android:id="@+id/nav_set_help"
+                android:icon="@drawable/ic_menu_slideshow"
+                android:title="@string/home_help" />
+            <item
+                android:id="@+id/nav_set_about"
+                android:icon="@drawable/ic_menu_slideshow"
+                android:title="@string/home_about" />
+        </menu>
+    </item>
+
+</menu>
