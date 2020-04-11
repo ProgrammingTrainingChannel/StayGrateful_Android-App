@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/StayGrateful.iml" filepath="$PROJECT_DIR$/StayGrateful.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StayGrateful_Android-App.iml" filepath="$PROJECT_DIR$/StayGrateful_Android-App.iml" group="StayGrateful_Android-App" />
+      <module fileurl="file://$PROJECT_DIR$/app/StayGrateful_Android-App-app.iml" filepath="$PROJECT_DIR$/app/StayGrateful_Android-App-app.iml" group="StayGrateful_Android-App/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

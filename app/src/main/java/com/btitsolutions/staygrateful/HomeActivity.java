@@ -33,9 +33,6 @@ import android.widget.Toast;
 import com.btitsolutions.staygrateful.Adapters.GratitudeAdapter;
 import com.btitsolutions.staygrateful.Models.GratitudeModel;
 import com.btitsolutions.staygrateful.Utilities.DBHelper;
-import com.google.android.gms.ads.AdRequest;
-import com.google.android.gms.ads.AdView;
-import com.google.android.gms.ads.MobileAds;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -59,12 +56,6 @@ public class HomeActivity extends AppCompatActivity
         setContentView(R.layout.activity_home);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-
-        MobileAds.initialize(this, "ca-app-pub-8168171128315421~2382206408");
-        AdView mAdView;
-        mAdView = (AdView) findViewById(R.id.adView);
-        AdRequest adRequest = new AdRequest.Builder().build();
-        mAdView.loadAd(adRequest);
 
         context = this;
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
